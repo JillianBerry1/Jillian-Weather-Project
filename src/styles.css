@@ -1,0 +1,149 @@
+body {
+  background: linear-gradient(
+    109.6deg,
+    rgb(156, 252, 248) 11.2%,
+    rgb(110, 123, 251) 91.1%
+  );
+  font-family: "Poppins", sans-serif;
+}
+#city {
+  color: white;
+  display: block;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 48px;
+  margin-top: 16px;
+  text-align: center;
+}
+#long {
+  color: white;
+  display: block;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+  margin-bottom: 24px;
+  margin-top: 16px;
+  text-align: center;
+  list-style: none;
+}
+
+#fahrenheit-link {
+  color: #6d7cfb;
+  font-size: 12px;
+  font-weight: 800;
+}
+#celcius-link {
+  color: white;
+  font-size: 12px;
+  font-weight: 500;
+}
+#weather {
+  color: white;
+  display: block;
+  font-size: 16px;
+  font-weight: 100;
+  line-height: 20px;
+  margin: 0;
+  padding-left: 96px;
+  list-style: none;
+}
+
+.sub-header {
+  color: #6d7cfb;
+  display: block;
+  font-size: 20px;
+  text-align: center;
+  margin-right: 96px;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+.col-4 {
+  color: #6d7cfb;
+  font-size: 16px;
+  padding-bottom: 8px;
+  padding-right: 24px;
+  text-align: right;
+}
+.container {
+  background: #f8f9fa;
+  padding-top: 24px;
+}
+.text-center {
+  text-align: center;
+}
+.bg-light {
+  border: 1px solid #f8f9fa;
+}
+.col {
+  background: #f8f9fa;
+  color: #6d7cfb;
+  font-size: 24px;
+  text-align: center;
+}
+.row-cols-2 {
+  background: #f8f9fa;
+}
+.card {
+  border-color: #f8f9fa;
+  background: #f8f9fa;
+  border-radius: 25px;
+  box-shadow: 10px 10px 50px #bebebe, -10px -10px 50px #ffffff;
+  color: #6d7cfb;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 14px;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+.cool-gradient {
+  background: #f8f9fa;
+  display: block;
+  box-shadow: none;
+}
+.card-title {
+  font-size: 20px;
+}
+.card-title-2 {
+  font-size: 16px;
+}
+
+.card-subtitle {
+  font-size: 48px;
+}
+.card-text {
+  font-size: 14px;
+}
+.btn {
+  background: #6d7cfb;
+  border-color: #6d7cfb;
+  color: #f8f9fa;
+  border-radius: 5px;
+  box-shadow: 0px -6px 10px rgba(255, 255, 255, 1),
+    0px 4px 15px rgba(0, 0, 0, 0.15);
+  margin: right;
+  font-size: 16px;
+}
+.search-field {
+  border-radius: 5px;
+  border-color: #6d7cfb;
+  font-size: 16px;
+}
+.btn-search {
+  background: #6d7cfb;
+  border-color: #6d7cfb;
+  color: #f8f9fa;
+  border-radius: 5px;
+  margin-right: 8pt;
+  font-size: 16px;
+}
+
+.btn-current {
+  background: #98d2f9;
+  border-color: #98d2f9;
+  color: #000000;
+  border-radius: 10px;
+  margin-right: 8px;
+  font-size: 16px;
+}
